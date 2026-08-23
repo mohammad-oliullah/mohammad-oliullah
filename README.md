@@ -86,13 +86,9 @@ An npm package providing structured Bangladesh geographical data and utilities f
 
 <br>
 
-<a href="https://github.com/mohammad-oliullah/bd-geo">
-→ Explore repository
-</a>
-
-<a href="https://www.npmjs.com/package/@olism/bd-geo">
-→ View on npm
-</a>
+<a href="https://github.com/mohammad-oliullah/bd-geo">→ Explore repository</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.npmjs.com/package/@olism/bd-geo">→ View on npm</a>
 
 </td>
 
