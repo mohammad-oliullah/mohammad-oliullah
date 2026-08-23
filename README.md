@@ -32,12 +32,20 @@ I’m a self-taught developer who likes to understand what happens underneath th
 
 I build things to **learn, solve problems, and understand systems better**.
 
+### Professional Experience
+
+- 💻 **Former Junior Backend Developer** at [HawkEyes Digital Monitoring Ltd](https://www.hedigital.tech/) — **1 Year 8 Months · Onsite**
+- 💻 **Former Full-stack Developer** at [Gokundu](https://raincoupon.com/) — **2 Years 8 Months · Remote**
+- 💻 **Former Full-stack Developer** at [MNTECH DIGITAL](https://mntechdigital.com/) — **10 Months · Onsite**
+
 ---
 
 ## `02` — Selected Work
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏠 Bhalobasha
@@ -51,13 +59,46 @@ A rental platform built around a simple question:
 **Built with**
 
 `Next.js` `NestJS`
+
 `TypeScript` `PostgreSQL` `Prisma`
 
 <br>
 
-<a href="https://github.com/mohammad-oliullah/bhalobasha">→ Explore repository</a>
+<a href="https://github.com/mohammad-oliullah/bhalobasha">
+→ Explore repository
+</a>
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🇧🇩 bd-geo
+
+**Bangladesh Geographical Data & Utilities**
+
+An npm package providing structured Bangladesh geographical data and utilities for applications that need divisions, districts, upazilas, thanas, and location information.
+
+**Built with**
+
+`TypeScript` `Node.js`
+
+`npm` `Geographical Data`
+
+<br>
+
+<a href="https://github.com/mohammad-oliullah/bd-geo">
+→ Explore repository
+</a>
+
+<a href="https://www.npmjs.com/package/@olism/bd-geo">
+→ View on npm
+</a>
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -70,16 +111,17 @@ A low-level project built to understand what happens before an application start
 **Built with**
 
 `Assembly` `C++`
+
 `NASM` `QEMU`
 
 <br>
 
-<a href="https://github.com/mohammad-oliullah/mini-os">→ Explore repository</a>
+<a href="https://github.com/mohammad-oliullah/mini-os">
+→ Explore repository
+</a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### ⚡ Xross
@@ -91,33 +133,19 @@ Exploring how common shell commands can behave consistently across different ope
 **Focus**
 
 `CLI` `Cross-platform`
+
 `Developer Tooling`
 
 <br>
 
-<a href="https://github.com/mohammad-oliullah/xross">→ Explore repository</a>
+<a href="https://github.com/mohammad-oliullah/xross">
+→ Explore repository
+</a>
 
 </td>
 
-<td width="50%" valign="top">
-
-### 💬 Gossipbook
-
-**Social Platform**
-
-A full-stack social application with authentication, posts, reactions, comments, profiles, and trending content.
-
-**Built with**
-
-`React` `Node.js`
-`Express` `MongoDB` `Firebase`
-
-<br>
-
-<a href="https://github.com/mohammad-oliullah/gossip-book-client">→ Explore repository</a>
-
-</td>
 </tr>
+
 </table>
 
 ---
