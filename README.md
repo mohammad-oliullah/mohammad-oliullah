@@ -48,19 +48,24 @@ I build things to **learn, solve problems, and understand systems better**.
 
 <td width="50%" valign="top">
 
-### 🏠 Bhalobasha
+<h3>🏠 Bhalobasha</h3>
 
-**Broker-Free Property Rental Platform**
+<strong>Broker-Free Property Rental Platform</strong>
 
+<p>
 A rental platform built around a simple question:
+</p>
 
-> Can property owners and renters connect without depending on brokers?
+<blockquote>
+Can property owners and renters connect without depending on brokers?
+</blockquote>
 
-**Built with**
+<strong>Built with</strong>
 
-`Next.js` `NestJS`
-
-`TypeScript` `PostgreSQL` `Prisma`
+<p>
+<code>Next.js</code> <code>NestJS</code><br>
+<code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code>
+</p>
 
 <br>
 
@@ -72,17 +77,32 @@ A rental platform built around a simple question:
 
 <td width="50%" valign="top">
 
-### 🇧🇩 bd-geo
+<h3>🇧🇩 bd-geo</h3>
 
-**Bangladesh Geographical Data & Utilities**
+<strong>Bangladesh Geographical Data & Utilities</strong>
 
+<p>
+<a href="https://www.npmjs.com/package/@olism/bd-geo">
+<img src="https://img.shields.io/npm/v/@olism/bd-geo.svg" alt="npm version">
+</a>
+<a href="https://www.npmjs.com/package/@olism/bd-geo">
+<img src="https://img.shields.io/npm/dm/@olism/bd-geo.svg" alt="npm downloads">
+</a>
+<a href="https://github.com/mohammad-oliullah/bd-geo/blob/dev/LICENSE">
+<img src="https://img.shields.io/npm/l/@olism/bd-geo.svg" alt="License">
+</a>
+</p>
+
+<p>
 An npm package providing structured Bangladesh geographical data and utilities for applications that need divisions, districts, upazilas, thanas, and location information.
+</p>
 
-**Built with**
+<strong>Built with</strong>
 
-`TypeScript` `Node.js`
-
-`npm` `Geographical Data`
+<p>
+<code>TypeScript</code> <code>Node.js</code><br>
+<code>npm</code> <code>Geographical Data</code>
+</p>
 
 <br>
 
@@ -98,17 +118,20 @@ An npm package providing structured Bangladesh geographical data and utilities f
 
 <td width="50%" valign="top">
 
-### 🖥️ Mini-OS
+<h3>🖥️ Mini-OS</h3>
 
-**Bootable x86 Operating System**
+<strong>Bootable x86 Operating System</strong>
 
+<p>
 A low-level project built to understand what happens before an application starts — booting, keyboard input, screen output, and machine-level execution.
+</p>
 
-**Built with**
+<strong>Built with</strong>
 
-`Assembly` `C++`
-
-`NASM` `QEMU`
+<p>
+<code>Assembly</code> <code>C++</code><br>
+<code>NASM</code> <code>QEMU</code>
+</p>
 
 <br>
 
@@ -120,17 +143,20 @@ A low-level project built to understand what happens before an application start
 
 <td width="50%" valign="top">
 
-### ⚡ Xross
+<h3>⚡ Xross</h3>
 
-**Cross-Platform Terminal**
+<strong>Cross-Platform Terminal</strong>
 
+<p>
 Exploring how common shell commands can behave consistently across different operating systems.
+</p>
 
-**Focus**
+<strong>Focus</strong>
 
-`CLI` `Cross-platform`
-
-`Developer Tooling`
+<p>
+<code>CLI</code> <code>Cross-platform</code><br>
+<code>Developer Tooling</code>
+</p>
 
 <br>
 
